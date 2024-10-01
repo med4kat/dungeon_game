@@ -13,13 +13,13 @@ import os
 init()
 
 # Define parameters
-num_rooms = 15
+num_rooms = 10
 min_width = 4
 max_width = 8
 min_height = 4
 max_height = 8
-grid_width = 80
-grid_height = 40
+grid_width = 50
+grid_height = 25
 door_chance = 0.3
 
 # Generate the dungeon
